@@ -1,1 +1,1 @@
-# A repository about JavaScript exercises that I resolved.
+# A repository about Python exercises that I resolved.
